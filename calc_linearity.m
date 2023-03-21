@@ -1,3 +1,7 @@
+% Matlab script to separate the flat region where the scale factor is obtained by a 
+% mean value.
+%
+% The PELT algorithm is the candidate to be implemented.
 
 speed_first = 1;
 speed_end = 40;
